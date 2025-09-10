@@ -39,7 +39,6 @@ body {
 }
 
 .wrapper {
-  background: url("../img/background.webp") center/cover no-repeat;
   min-height: 100vh;
   padding: 1rem;
 }
