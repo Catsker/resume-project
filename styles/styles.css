@@ -321,6 +321,7 @@ body {
 .experience__point {
   position: relative;
   padding-left: 0.45rem;
+  text-align: left;
 }
 
 .experience__point::before {
